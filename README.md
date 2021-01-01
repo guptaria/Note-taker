@@ -17,9 +17,9 @@ This application is made for all the users who need to keep track of a lot of in
 There are a couple dependencies that are have already been provided for you in the package json. All you need to do is open your terminal and run "npm install". This gives you access to the packages that will run the applicaiton, mainly the express.js package. Next, in terminal run "node server.js". This will launched your local host 3000. You can then navigate to your browser and go to https://localhost:3000 where you will be able to start taking and editing notes
 
 ## UserStory
-AS A user, I want to be able to write and save notes
-I WANT to be able to delete notes I've written before
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
+AS A user, I want to be able to write and save notes <br>
+I WANT to be able to delete notes I've written before <br>
+SO THAT I can organize my thoughts and keep track of tasks I need to complete.
 
 
 
