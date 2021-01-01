@@ -8,9 +8,7 @@ This application is made for all the users who need to keep track of a lot of in
 * [User Story](#UserStory)
 * [Technologies_Used](#Technologies_Used)
 * [Code_Snippet](#Code_Snippet)
-* [Final_Result](#Final_Result)
-* [Video_Demo](#Video_Demo)
-* [ResourceReferred](#ResourceReferred)
+* [Demo](#Demo)
 * [Github_Link](#Github_Link)
 
 
